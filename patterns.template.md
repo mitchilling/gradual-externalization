@@ -16,3 +16,6 @@
 
 ## Example
 - Real case (optional but highly valuable)
+
+## Reference
+- Where is this pattern extracted from?
